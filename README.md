@@ -15,7 +15,7 @@ about job demand, salaries, skills, experience levels and work modes.
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](./dashboard.png) 
+![Dashboard Preview](./dashboard.png.png) 
 
 ## 📈 Key Analysis
 
