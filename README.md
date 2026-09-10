@@ -15,7 +15,7 @@ about job demand, salaries, skills, experience levels and work modes.
 
 ## 📊 Dashboard Preview
 
-![Tech Job Escape India Dashboard](dasboard.png)
+![Tech Job Escape India Dashboard](dasboard .png.png)
 
 ## 📈 Key Analysis
 
